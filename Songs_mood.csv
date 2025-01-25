@@ -1,0 +1,191 @@
+Emotion,Place,Temp,Time,Songs
+,,,,
+Angry,Tamil Nadu,Rain,Morning,1
+Angry,Tamil Nadu,Hot,Morning,2
+Angry,Tamil Nadu,Normal,Morning,3
+Angry,Tamil Nadu,Rain,Evening,4
+Angry,Tamil Nadu,Hot,Evening,5
+Angry,Tamil Nadu,Normal,Evening,6
+Angry,Tamil Nadu,Rain,Night,7
+Angry,Tamil Nadu,Hot,Night,8
+Angry,Tamil Nadu,Normal,Night,9
+Disgust,Tamil Nadu,Rain,Morning,10
+Disgust,Tamil Nadu,Hot,Morning,11
+Disgust,Tamil Nadu,Normal,Morning,12
+Disgust,Tamil Nadu,Rain,Evening,13
+Disgust,Tamil Nadu,Hot,Evening,14
+Disgust,Tamil Nadu,Normal,Evening,15
+Disgust,Tamil Nadu,Rain,Night,16
+Disgust,Tamil Nadu,Hot,Night,17
+Disgust,Tamil Nadu,Normal,Night,18
+Fear,Tamil Nadu,Rain,Morning,19
+Fear,Tamil Nadu,Hot,Morning,20
+Fear,Tamil Nadu,Normal,Morning,21
+Fear,Tamil Nadu,Rain,Evening,22
+Fear,Tamil Nadu,Hot,Evening,23
+Fear,Tamil Nadu,Normal,Evening,24
+Fear,Tamil Nadu,Rain,Night,25
+Fear,Tamil Nadu,Hot,Night,26
+Fear,Tamil Nadu,Normal,Night,27
+Happy,Tamil Nadu,Rain,Morning,28
+Happy,Tamil Nadu,Hot,Morning,29
+Happy,Tamil Nadu,Normal,Morning,30
+Happy,Tamil Nadu,Rain,Evening,31
+Happy,Tamil Nadu,Hot,Evening,32
+Happy,Tamil Nadu,Normal,Evening,33
+Happy,Tamil Nadu,Rain,Night,34
+Happy,Tamil Nadu,Hot,Night,35
+Happy,Tamil Nadu,Normal,Night,36
+Neutral,Tamil Nadu,Rain,Morning,37
+Neutral,Tamil Nadu,Hot,Morning,38
+Neutral,Tamil Nadu,Normal,Morning,39
+Neutral,Tamil Nadu,Rain,Evening,40
+Neutral,Tamil Nadu,Hot,Evening,41
+Neutral,Tamil Nadu,Normal,Evening,42
+Neutral,Tamil Nadu,Rain,Night,43
+Neutral,Tamil Nadu,Hot,Night,44
+Neutral,Tamil Nadu,Normal,Night,45
+Sad,Tamil Nadu,Rain,Morning,46
+Sad,Tamil Nadu,Hot,Morning,47
+Sad,Tamil Nadu,Normal,Morning,48
+Sad,Tamil Nadu,Rain,Evening,49
+Sad,Tamil Nadu,Hot,Evening,50
+Sad,Tamil Nadu,Normal,Evening,51
+Sad,Tamil Nadu,Rain,Night,52
+Sad,Tamil Nadu,Hot,Night,53
+Sad,Tamil Nadu,Normal,Night,54
+Surprise,Tamil Nadu,Rain,Morning,55
+Surprise,Tamil Nadu,Hot,Morning,56
+Surprise,Tamil Nadu,Normal,Morning,57
+Surprise,Tamil Nadu,Rain,Evening,58
+Surprise,Tamil Nadu,Hot,Evening,59
+Surprise,Tamil Nadu,Normal,Evening,60
+Surprise,Tamil Nadu,Rain,Night,61
+Surprise,Tamil Nadu,Hot,Night,62
+Surprise,Tamil Nadu,Normal,Night,63
+Angry,Andhra Pradesh,Rain,Morning,64
+Angry,Andhra Pradesh,Hot,Morning,65
+Angry,Andhra Pradesh,Normal,Morning,66
+Angry,Andhra Pradesh,Rain,Evening,67
+Angry,Andhra Pradesh,Hot,Evening,68
+Angry,Andhra Pradesh,Normal,Evening,69
+Angry,Andhra Pradesh,Rain,Night,70
+Angry,Andhra Pradesh,Hot,Night,71
+Angry,Andhra Pradesh,Normal,Night,72
+Disgust,Andhra Pradesh,Rain,Morning,73
+Disgust,Andhra Pradesh,Hot,Morning,74
+Disgust,Andhra Pradesh,Normal,Morning,75
+Disgust,Andhra Pradesh,Rain,Evening,76
+Disgust,Andhra Pradesh,Hot,Evening,77
+Disgust,Andhra Pradesh,Normal,Evening,78
+Disgust,Andhra Pradesh,Rain,Night,79
+Disgust,Andhra Pradesh,Hot,Night,80
+Disgust,Andhra Pradesh,Normal,Night,81
+Fear,Andhra Pradesh,Rain,Morning,82
+Fear,Andhra Pradesh,Hot,Morning,83
+Fear,Andhra Pradesh,Normal,Morning,84
+Fear,Andhra Pradesh,Rain,Evening,85
+Fear,Andhra Pradesh,Hot,Evening,86
+Fear,Andhra Pradesh,Normal,Evening,87
+Fear,Andhra Pradesh,Rain,Night,88
+Fear,Andhra Pradesh,Hot,Night,89
+Fear,Andhra Pradesh,Normal,Night,90
+Happy,Andhra Pradesh,Rain,Morning,91
+Happy,Andhra Pradesh,Hot,Morning,92
+Happy,Andhra Pradesh,Normal,Morning,93
+Happy,Andhra Pradesh,Rain,Evening,94
+Happy,Andhra Pradesh,Hot,Evening,95
+Happy,Andhra Pradesh,Normal,Evening,96
+Happy,Andhra Pradesh,Rain,Night,97
+Happy,Andhra Pradesh,Hot,Night,98
+Happy,Andhra Pradesh,Normal,Night,99
+Neutral,Andhra Pradesh,Rain,Morning,100
+Neutral,Andhra Pradesh,Hot,Morning,101
+Neutral,Andhra Pradesh,Normal,Morning,102
+Neutral,Andhra Pradesh,Rain,Evening,103
+Neutral,Andhra Pradesh,Hot,Evening,104
+Neutral,Andhra Pradesh,Normal,Evening,105
+Neutral,Andhra Pradesh,Rain,Night,106
+Neutral,Andhra Pradesh,Hot,Night,107
+Neutral,Andhra Pradesh,Normal,Night,108
+Sad,Andhra Pradesh,Rain,Morning,109
+Sad,Andhra Pradesh,Hot,Morning,110
+Sad,Andhra Pradesh,Normal,Morning,111
+Sad,Andhra Pradesh,Rain,Evening,112
+Sad,Andhra Pradesh,Hot,Evening,113
+Sad,Andhra Pradesh,Normal,Evening,114
+Sad,Andhra Pradesh,Rain,Night,115
+Sad,Andhra Pradesh,Hot,Night,116
+Sad,Andhra Pradesh,Normal,Night,117
+Surprise,Andhra Pradesh,Rain,Morning,118
+Surprise,Andhra Pradesh,Hot,Morning,119
+Surprise,Andhra Pradesh,Normal,Morning,120
+Surprise,Andhra Pradesh,Rain,Evening,121
+Surprise,Andhra Pradesh,Hot,Evening,122
+Surprise,Andhra Pradesh,Normal,Evening,123
+Surprise,Andhra Pradesh,Rain,Night,124
+Surprise,Andhra Pradesh,Hot,Night,125
+Surprise,Andhra Pradesh,Normal,Night,126
+Angry,Karnataka,Rain,Morning,127
+Angry,Karnataka,Hot,Morning,128
+Angry,Karnataka,Normal,Morning,129
+Angry,Karnataka,Rain,Evening,130
+Angry,Karnataka,Hot,Evening,131
+Angry,Karnataka,Normal,Evening,132
+Angry,Karnataka,Rain,Night,133
+Angry,Karnataka,Hot,Night,134
+Angry,Karnataka,Normal,Night,135
+Disgust,Karnataka,Rain,Morning,136
+Disgust,Karnataka,Hot,Morning,137
+Disgust,Karnataka,Normal,Morning,138
+Disgust,Karnataka,Rain,Evening,139
+Disgust,Karnataka,Hot,Evening,140
+Disgust,Karnataka,Normal,Evening,141
+Disgust,Karnataka,Rain,Night,142
+Disgust,Karnataka,Hot,Night,143
+Disgust,Karnataka,Normal,Night,144
+Fear,Karnataka,Rain,Morning,145
+Fear,Karnataka,Hot,Morning,146
+Fear,Karnataka,Normal,Morning,147
+Fear,Karnataka,Rain,Evening,148
+Fear,Karnataka,Hot,Evening,149
+Fear,Karnataka,Normal,Evening,150
+Fear,Karnataka,Rain,Night,151
+Fear,Karnataka,Hot,Night,152
+Fear,Karnataka,Normal,Night,153
+Happy,Karnataka,Rain,Morning,154
+Happy,Karnataka,Hot,Morning,155
+Happy,Karnataka,Normal,Morning,156
+Happy,Karnataka,Rain,Evening,157
+Happy,Karnataka,Hot,Evening,158
+Happy,Karnataka,Normal,Evening,159
+Happy,Karnataka,Rain,Night,160
+Happy,Karnataka,Hot,Night,161
+Happy,Karnataka,Normal,Night,162
+Neutral,Karnataka,Rain,Morning,163
+Neutral,Karnataka,Hot,Morning,164
+Neutral,Karnataka,Normal,Morning,165
+Neutral,Karnataka,Rain,Evening,166
+Neutral,Karnataka,Hot,Evening,167
+Neutral,Karnataka,Normal,Evening,168
+Neutral,Karnataka,Rain,Night,169
+Neutral,Karnataka,Hot,Night,170
+Neutral,Karnataka,Normal,Night,171
+Sad,Karnataka,Rain,Morning,172
+Sad,Karnataka,Hot,Morning,173
+Sad,Karnataka,Normal,Morning,174
+Sad,Karnataka,Rain,Evening,175
+Sad,Karnataka,Hot,Evening,176
+Sad,Karnataka,Normal,Evening,177
+Sad,Karnataka,Rain,Night,178
+Sad,Karnataka,Hot,Night,179
+Sad,Karnataka,Normal,Night,180
+Surprise,Karnataka,Rain,Morning,181
+Surprise,Karnataka,Hot,Morning,182
+Surprise,Karnataka,Normal,Morning,183
+Surprise,Karnataka,Rain,Evening,184
+Surprise,Karnataka,Hot,Evening,185
+Surprise,Karnataka,Normal,Evening,186
+Surprise,Karnataka,Rain,Night,187
+Surprise,Karnataka,Hot,Night,188
+Surprise,Karnataka,Normal,Night,189
